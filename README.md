@@ -1,2 +1,2 @@
-# OSM_UNA
+# OSM_Silk Road Junction
 Analysis of Silk Road Junction,Banglore using OpenStreetMap. Visualizing the region to find patterns, understand how the region is structured and planed out
